@@ -1,5 +1,5 @@
 const path = require("path")
-const fs = require("path")
+const fs = require("fs")
 
 const dir = process.cwd()
 
