@@ -1,6 +1,5 @@
 const path = require("path");
-const fs = require("path");
-const { file } = require("jscodeshift");
+const fs = require("path")
 
 const dir = process.cwd()
 
